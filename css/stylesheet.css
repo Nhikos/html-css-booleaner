@@ -8,10 +8,31 @@
 
 }
 
+table{
+    text-align: left;
+}
+
+thead{
+    color: white;
+    background-color: #23a8e5;
+}
+
+#riga_azzurra{
+    background-color: #b1e5f2;
+}
+
+tr{
+    width: 100%;
+}
+
 #The_Booleaner {
     
 }
 
-#lista {
+#lista{
 
+}
+
+#evidenziatore {
+    background-color: #fefd1a;
 }
